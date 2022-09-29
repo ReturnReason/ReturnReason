@@ -28,10 +28,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-round&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-round&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-round&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-round&logo=Adobe Premiere Pro&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-round&logo=Adobe XD&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-round&logo=Adobe Illustrator&logoColor=white"/>
 
 <br/>
 
