@@ -41,12 +41,12 @@
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-round&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-round&logo=Redux&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-round&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-round&logo=React Router&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-round&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-round&logo=styled-components&logoColor=white"/>
 <br/>
 
