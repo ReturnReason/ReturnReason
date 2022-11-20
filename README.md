@@ -1,25 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=header&text=Hi,%20there%20♥&fontSize=24&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=header&text=Hi,%20there%20!&fontSize=24&animation=fadeIn&fontColor=ffffff)
 
-**안녕하세요! ฅ^._.^ฅ** <br/>
-프론트엔드 개발자를 목표로 공부 중인 **이유**입니다.<br/>
-22년 4월, 웹 개발자에 관심을 갖게 되어 현재 독학 7개월차 코린이입니다. <br/>
-꾸준함이 곧 실력이라 생각하여 매일 한걸음 한걸음 나아가고 있어요!<br/>
+**안녕하세요!** <br/>
+프론트엔드 개발자를 목표로 웹 개발 독학중인 **이유**입니다. ฅ^._.^ฅ <br/>
+꾸준함이 곧 실력이라 생각하여 매일 조금씩 한걸음 한걸음 나아가고 있어요!<br/>
 
-### Education & Activities 🎈
-2015.03 광운대학교 경영대학 경영학부 입학 <br/>
-2018.01 ~ 2018.12 광운대학교 제45대 총학생회 홍보국 디자인팀장 <br/>
-2019.03 광운대학교 SW융합대학 정보융합학부 전과  <br/>
-2020.01 ~ 2020.12 광운대학교 제4대 소프트웨어융합대학 학생회 홍보국 홍보국장 <br/>
-2021.02 광운대학교 SW융합대학 정보융합학부(콘텐츠 테크놀로지) 졸업 <br/>
-⠀⠀
 <br/>
-
 
 ![zz](https://user-images.githubusercontent.com/48672106/185985079-85a4e77d-7f9f-4025-9ab6-2dff067b84c9.gif)
 
 <div>
 
-### SKILLS🛠
+### SKILLS 💎
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white"/>
@@ -28,7 +19,7 @@
 
 <br/>
 
-### TOOLS🎨
+### TOOLS 🎨
 <img src="https://img.shields.io/badge/GitHub-605A70?style=flat-round&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-9577F0?style=flat-round&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-7269F0?style=flat-round&logo=Figma&logoColor=white"/>
@@ -40,7 +31,7 @@
 
 <br/>
 
-### STUDYING📚
+### STUDYING 📚
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-round&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-round&logo=Cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-6EC0EB?style=flat-round&logo=Webpack&logoColor=white"/>
@@ -63,7 +54,7 @@
 
 ### 영차영차 🐢
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReturnReason&show_icons=true&theme=dark&count_private=true&custom_title=REASON♥&bg_color=30,A5B4E8,BEB5E8&title_color=fff&text_color=fff&icon_color=fff)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReturnReason&show_icons=true&theme=dark&count_private=true&custom_title=REASON&bg_color=30,A5B4E8,BEB5E8&title_color=fff&text_color=fff&icon_color=fff)  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FReturnReason&count_bg=%23A5B4E8&title_bg=%236E799C&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
