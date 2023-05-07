@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=header&text=Return%20Reason%20&fontSize=24&animation=fadeIn&fontColor=ffffff)
 
 # About Me. <br/>
+
+**끊임없이 발전하는 이유 | REASON <br/>**
 빠르게 가는 것보다 바르게 가는 것을 추구하는 개발자 **이유**입니다. ฅ^._.^ฅ <br/>
 꾸준함을 가장 중요한 가치로 생각하여, 매일 조금씩 성장하고 있어요.<br/>
 프론트엔드 개발자를 목표로 웹 개발 독학중이에요.<br/>
