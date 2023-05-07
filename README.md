@@ -18,6 +18,9 @@
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-round&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-round&logo=styled-components&logoColor=white"/>
 
 <br/>
 
@@ -43,7 +46,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-round&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-round&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat-round&logo=StoryBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-round&logo=Cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-round&logo=Jest&logoColor=white"/>
 <br/>
 <br/>
 
