@@ -13,64 +13,30 @@
 ![zz](https://user-images.githubusercontent.com/48672106/185985079-85a4e77d-7f9f-4025-9ab6-2dff067b84c9.gif)
 
 <div>
-
-## SKILLS.
-
-`FrontEnd.` <br/>
     
+## 💎 SKILLS.    
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Router-6B99F0?style=flat-round&logo=React Router&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-round&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-round&logo=styled-components&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-round&logo=Axios&logoColor=white"/>    
-<br/><br/>
     
-`DevOps.` <br/>
-    
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-round&logo=Amazon S3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon CloudFront-6515DD?style=flat-round&logo=Amazon CloudFront&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-round&logo=Github Actions&logoColor=white"/>
-    
-<br/>
-
-## TOOLS.
+## 🎨 TOOLS.
 <img src="https://img.shields.io/badge/GitHub-605A70?style=flat-round&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-0D0D0D?style=flat-round&logo=Notion&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white"/>
 <br/>
   
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-round&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-round&logo=Adobe Premiere Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-round&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-round&logo=Adobe Illustrator&logoColor=white"/>
 
 <br/>
-
-## STUDYING.
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webpack-6EC0EB?style=flat-round&logo=Webpack&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-round&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-round&logo=Cplusplus&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-round&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-round&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat-round&logo=StoryBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-round&logo=GraphQL&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-round&logo=Cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-round&logo=Jest&logoColor=white"/>
-
-<br/>
-<br/>
+<br/><br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reasons)](https://solved.ac/reasons)
