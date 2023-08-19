@@ -10,7 +10,7 @@
 
 <br/>
 
-![zz](https://user-images.githubusercontent.com/48672106/185985079-85a4e77d-7f9f-4025-9ab6-2dff067b84c9.gif)
+![다운로드](https://github.com/ReturnReason/TOY/assets/48672106/659c543f-8046-408f-8a06-1c39ae6d9652)
 
 <div>
     
