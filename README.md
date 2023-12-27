@@ -1,19 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=header&text=Return%20Reason%20&fontSize=24&animation=fadeIn&fontColor=ffffff)
-
-# About Me. REASON<br/>
-
-**안녕하세요! <br/>**
-빠르게 가는 것보다 바르게 가는 것을 추구하는 개발자 **이유**입니다. ฅ^._.^ฅ <br/>
-꾸준함을 가장 중요한 가치로 생각하여, 매일 조금씩 성장하고 있어요.<br/>
-`프론트엔드 개발자`를 목표로 웹 개발 `독학`하며 공부하고 있어요.<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=header&text=ReturnReason%20&fontSize=24&animation=fadeIn&fontColor=ffffff)
 
 <br/>
+<div align="center">    
 
 ![다운로드](https://github.com/ReturnReason/TOY/assets/48672106/659c543f-8046-408f-8a06-1c39ae6d9652)
 
-<div>
     
-## 💎 SKILLS.    
+#### 💎 SKILLS.    
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"/>
@@ -25,7 +18,7 @@
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-round&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-round&logo=ReactQuery&logoColor=white"/>
     
-## 🎨 TOOLS.
+#### 🎨 TOOLS.
 <img src="https://img.shields.io/badge/GitHub-605A70?style=flat-round&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-0D0D0D?style=flat-round&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white"/>
@@ -39,19 +32,11 @@
 <br/>
 <br/><br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reasons)](https://solved.ac/reasons)
-
-</div>
-
-
-### 🐢 영차영차
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReturnReason&show_icons=true&theme=dark&count_private=true&custom_title=REASON&bg_color=30,A5B4E8,BEB5E8&title_color=fff&text_color=fff&icon_color=fff)  
 
 <br/>
     
-<div align="center">    
+
    
 
     
