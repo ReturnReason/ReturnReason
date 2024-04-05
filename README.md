@@ -3,20 +3,21 @@
 <br/>
 <div align="center">    
 
+**Hi, There!** <br/>
+Welcome to the GitHub of a curious baby developer. 💙
+
+
 ![다운로드](https://github.com/ReturnReason/TOY/assets/48672106/659c543f-8046-408f-8a06-1c39ae6d9652)
 
     
-#### 💎 SKILLS.    
+#### 💎 Tech Stacks.    
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-round&logo=Next.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-round&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-round&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-round&logo=ReactQuery&logoColor=white"/>
+
     
 #### 🎨 TOOLS.
 <img src="https://img.shields.io/badge/GitHub-605A70?style=flat-round&logo=GitHub&logoColor=white"/>
